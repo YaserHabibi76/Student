@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="labEx3.AppTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2020-11-04T02:00:12" hostname="socsvm" time="0.008">
+  <properties/>
+  <testcase name="testAppHasAGreeting" classname="labEx3.AppTest" time="0.008"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
